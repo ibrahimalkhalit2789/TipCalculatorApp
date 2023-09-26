@@ -32,7 +32,6 @@ public class tipCalculator {
         System.out.println();
 
         System.out.println();
-        System.out.println();
 
         //CALCULATION
         tipAmt = (totalBill * tipPercent);
